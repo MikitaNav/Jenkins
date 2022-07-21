@@ -1,0 +1,5 @@
+##Css template
+bin/
+obj/
+.vs/
+Log/
